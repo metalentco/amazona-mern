@@ -1,6 +1,3 @@
-# MERN AMAZONA
-
-![amazona](/frontend/public/images/amazona.jpg)
 
 # React Tutorial - Build ECommerce in 6 Hours [2022]
 
@@ -28,7 +25,7 @@ Watch it on Youtube:
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/mern-amazona.git
+$ git clone git@github.com:metalentco/amazona-mern.git
 $ cd mern-amazona
 ```
 
@@ -74,7 +71,7 @@ $ npm start
 
 ## Support
 
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
+- Contact Instructor: [metalentco](metalentco777@gmail.com)
 
 # Lessons
 
